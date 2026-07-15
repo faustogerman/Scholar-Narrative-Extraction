@@ -1,0 +1,11 @@
+gradio==6.20.0
+torch
+numpy<2
+pandas
+openai
+pydantic
+umap-learn
+hdbscan
+altair
+scikit-learn
+tqdm
